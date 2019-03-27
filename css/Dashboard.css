@@ -68,3 +68,15 @@ h1 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
+
+#patient_info {
+  float: left;
+}
+
+#physician_info {
+  float: left;
+}
+
+#info {
+  width: 100%;
+}
